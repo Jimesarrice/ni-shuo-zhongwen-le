@@ -1,0 +1,15 @@
+# 本地打包产物
+*.zip
+你说中文了.zip
+
+# 音乐关卡的音轨不在仓库内分发，请自行放入同名文件（见 README）
+level1.mp3
+level2.mp3
+level3.mp3
+
+# 系统/编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
